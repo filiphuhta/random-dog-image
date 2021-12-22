@@ -1,22 +1,27 @@
-# Getting Started with random dog image generator (React)
+# random-dog-image (React)
+A react component that generates random images of dogs.
+### Install the package:
+> `npm install random-dog-image`
 
-> Install the package: `npm install random-dog-image`
+### Import the component:
+`import` the react dog image `component` in your `.js` file:
 
-`import` the react dog image generator `component` like:
-
- ```
+```
  import DogImage from 'random-dog-image'
-  ```
-then just add it to your react `component` like:
  ```
-  <DogImage></DogImage>
+### How to use it:
+Add the `DogImage` element in your `JSX`:
  ```
+ class Example extends React.Component {
+  render() {
+    return  <DogImage></DogImage>;
+  }
+}
  
- Hope the dog images will delight your days!
-
+ ```
  ## How the component will look:
 
 ![image of the npm package](https://raw.githubusercontent.com/filiphuhta/random-dog-image/master/images/Sk%C3%A4rmavbild%202021-12-22%20kl.%2023.55.30.png)
 
 
-
+###  Hope the dog images will delight your days!

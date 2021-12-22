@@ -1,6 +1,6 @@
 {
   "name": "random-dog-image",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
