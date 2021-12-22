@@ -2,10 +2,10 @@
 
 > Install the package: `npm install random-dog-image`
 
-`import` the react generator `component` like:
+`import` the react dog image generator `component` like:
 
  ```
- import DogImage from 'random-dog-generator'
+ import DogImage from 'random-dog-image'
   ```
 then just add it to your react `component` like:
  ```
